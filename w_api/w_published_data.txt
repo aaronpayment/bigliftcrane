@@ -1,0 +1,1 @@
+a:3:{s:5:"pages";a:6:{i:0;s:15:"philosophy.html";i:1;s:12:"contact.html";i:2;s:9:"blog.html";i:3;s:10:"index.html";i:4;s:14:"portfolio.html";i:5;s:15:"experience.html";}s:9:"protected";a:6:{s:4:"Home";b:0;s:10:"Experience";b:0;s:9:"Portfolio";b:0;s:10:"Philosophy";b:0;s:7:"Contact";b:0;s:4:"Blog";b:0;}s:7:"dynamic";a:1:{s:4:"blog";b:1;}}
