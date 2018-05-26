@@ -1,8 +1,0 @@
--rw-r--r--   1 2245019  15000         406 May 17  2016 .htaccess
--rw-r--r--   1 2245019  15000       16159 May 17  2016 contact.html
--rw-r--r--   1 2245019  15000        6518 May 17  2016 favicon.ico
-drwxr-xr-x   3 2245019  15000        4096 May 17  2016 files
--rw-r--r--   1 2245019  15000       16335 May 17  2016 index.html
--rw-r--r--   1 2245019  15000        3368 May 17  2016 login.php
-drwxr-xr-x   3 2245019  15000        4096 May 17  2016 uploads
-drwxr-xr-x   2 2245019  15000        4096 May 17  2016 w_api
