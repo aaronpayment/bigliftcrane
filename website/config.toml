@@ -1,0 +1,4 @@
+baseURL = "http://bigliftcrane.ca"
+languageCode = "en-us"
+title = "Big Lift Crane Service Ltd."
+theme = "hugo-agency-theme"
