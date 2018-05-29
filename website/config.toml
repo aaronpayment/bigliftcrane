@@ -2,3 +2,12 @@ baseURL = "http://bigliftcrane.ca"
 languageCode = "en-us"
 title = "Big Lift Crane Service Ltd."
 theme = "hugo-agency-theme"
+
+[params]
+  # Hero section
+  [params.hero]
+  # To change the background image of the hero, replace 'header-bg.jpg' in
+  # the 'static/img' folder.
+  title = "BIG LIFT CRANE SERVICE"
+  subtitle = "SERVING THE OKANAGAN, SIMILKAMEEN & BOUNDARY"
+  buttonText = "V"
